@@ -86,3 +86,9 @@ Example:
 ```bash
 kill %1
 ```
+
+
+## References
+
+1. https://kapeli.com/cheat_sheets/Bash_Shortcuts.docset/Contents/Resources/Documents/index
+2. https://kapeli.com/cheatsheets
