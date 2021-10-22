@@ -12,4 +12,4 @@ $ xprop
 
 #### Resources:
 * https://kifarunix.com/install-and-setup-i3-windows-manager-on-ubuntu-20-04/
-* https://github.com/bookercodes/dotfiles
+* https://github.com/bookercodes/dotfiles/tree/ubuntu/.i3
